@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lychrelizer
 
-The default bearded, hipster, matet-tea drinking full-stack web dev with a man bun.
+The default bearded, hipster, mate-tea drinking full-stack web dev with a man bun.
 
 <!---
 - 👀 I’m interested in ...
