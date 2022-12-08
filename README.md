@@ -2,6 +2,8 @@
 
 The default bearded, hipster, mate-tea drinking full-stack web dev with a man bun.
 
+<p style="text-align: center">🧔🏻🧉🤓💻</p>
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
