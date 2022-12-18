@@ -4,6 +4,9 @@ The default bearded, hipster, mate-tea drinking full-stack web dev with a man bu
 
 <p style="text-align: center">🧔🏻🧉🤓💻</p>
 
+## Projects I'm currently working on
+
+Something with users. Sssshhh... top secret
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
